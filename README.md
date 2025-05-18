@@ -1,6 +1,10 @@
-# 🌺 OpenAI to Z Challenge: Solo Project
+# 🧽 OpenAI to Z Challenge: Amazon Archaeology with AI
 
-**Author:** Maki Dizon
+> 🗜️ A solo research project to detect hidden Amazonian archaeological sites using AI and remote sensing.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-openai--to--z--challenge-blue?logo=github)](https://github.com/mctrinity/openai-to-z-challenge)
+
+**Author:** Mary Ann Dizon
 **Challenge:** [OpenAI to Z Challenge on Kaggle](https://www.kaggle.com/competitions/openai-to-z-challenge)
 
 ---
