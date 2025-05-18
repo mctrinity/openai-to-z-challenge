@@ -1,3 +1,5 @@
+![Banner](visualizations/maps/banner.png)
+
 # 🧽 OpenAI to Z Challenge: Amazon Archaeology with AI
 
 > 🗜️ A solo research project to detect hidden Amazonian archaeological sites using AI and remote sensing.
