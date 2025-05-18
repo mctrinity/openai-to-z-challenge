@@ -1,0 +1,20 @@
+# Core geospatial and Earth Engine tools
+earthengine-api
+geemap
+
+# Geospatial processing
+numpy
+pandas
+matplotlib
+rasterio
+shapely
+geopandas
+
+# AI/LLM tools
+openai
+tiktoken
+
+# Optional Jupyter tools
+notebook
+jupyterlab
+ipykernel
